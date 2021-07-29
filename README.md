@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naiarani
+- 👀 I’m interested in biomaterials in regenerative health and robotics!
+- 🌱 I’m currently learning how to become a developer.
+- 💞️ I’m looking to collaborate on any and all projects!
+- 📫 How to reach me: nlum@hawk.iit.edu
